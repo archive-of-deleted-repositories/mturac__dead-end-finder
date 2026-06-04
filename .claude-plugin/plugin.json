@@ -1,0 +1,19 @@
+{
+  "name": "dead-end-finder",
+  "version": "0.1.0",
+  "description": "Discover unreachable code, unused exports, and orphaned API endpoints that accumulate silently.",
+  "author": {
+    "name": "mturac"
+  },
+  "skills": [
+    "skills/dead-exports",
+    "skills/dead-routes",
+    "skills/dead-cleanup"
+  ],
+  "commands": [
+    "commands/dead-ends.md",
+    "commands/dead-exports.md",
+    "commands/dead-api.md",
+    "commands/dead-cleanup.md"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "name": "dead-end-finder",
+  "displayName": "Dead End Finder",
+  "description": "Discover unreachable code, unused exports, and orphaned API endpoints that accumulate silently. Cut technical debt before it cuts you.",
+  "keywords": ["dead-code", "unused", "exports", "tree-shaking", "cleanup", "technical-debt"],
+  "category": "developer-tools",
+  "license": "MIT",
+  "repository": "https://github.com/mturac/dead-end-finder",
+  "icon": "🪦"
+}
